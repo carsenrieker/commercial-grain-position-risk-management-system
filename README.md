@@ -6,7 +6,7 @@ This Excel-based project simulates the workflow of a commercial grain merchandis
 
 The workbook integrates contract management, scale ticket processing, quality discount automation, freight adjustments, position reconciliation, hedge monitoring, and dashboard reporting.
 
-## Features
+## Features 
 
 - Purchase Contract Management
 - Sales Contract Management
